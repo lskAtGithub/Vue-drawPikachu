@@ -1,6 +1,6 @@
 # vue-drawpikachu
 
-> A Vue.js project
+> 使用Vue展示css如何绘制一只皮卡丘
 
 ## Build Setup
 
